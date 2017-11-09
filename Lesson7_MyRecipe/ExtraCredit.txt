@@ -1,0 +1,7 @@
+
+    Program Name: Recipe Display Application
+    Author: Rhianna Reichert
+    Date: November 8, 2017
+    Filename: ExtraCredit.txt
+    
+    In my extra credit assignment, I changed the font colors for my h3's, I chnaged the fade and added a hover.

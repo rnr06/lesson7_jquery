@@ -10,14 +10,14 @@ November 8, 2017
 Rhianna Reichert
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment you create an application for a brownie recipe using jQuery. When the user clicks on the ingredients or the instruction headers, the app will show the contents of each. You will learn the correct jQuery syntax to complete this.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/rnr06/lesson7_jquery <br />
+https://rnr06.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned exactly what jQuery is and how to use it.
+2. I learned how to manipulate the DOM with jQuery methods.
+3. I learned how to use jQuery built-in effects.
 
